@@ -1,3 +1,6 @@
+# DEPRECATED
+This is a legacy component and will be obsolete with Systemclient version 2.
+
 # MouseHookLibrary
 DLL for mouse lock. Systemclient requires this to start.
 
